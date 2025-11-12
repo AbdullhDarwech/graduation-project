@@ -1,3 +1,44 @@
+# Graduation Project
+
+**Graduation Project Management System**  
+نظام لإدارة مشاريع التخرج الجامعية، يتيح للطلاب تقديم مشاريعهم، البحث عن فرق، وللأساتذة قبول المشاريع والإشراف عليها.
+
+## Features
+
+### 🧑‍🎓 Student
+- تقديم مشروع تخرج لاختيار أستاذ مشرف.
+- البحث عن فرق والانضمام إليها.
+- نشر إعلان بحث عن أعضاء فريق.
+
+### 👨‍🏫 Teacher
+- استعراض المشاريع المقدمة إليه.
+- قبول أو رفض المشاريع وتحديد موعد إشراف.
+- متابعة المشاريع الحالية وإضافة طلاب للمشاريع.
+
+### ⚙️ Backend
+- Node.js / Express (أو أي Backend تستخدمه)
+- MySQL / MongoDB
+- API لإدارة المشاريع والطلاب والإعلانات.
+
+### 💻 Frontend
+- React + Ant Design
+- واجهات تسجيل دخول، لوحة تحكم للطلاب والأساتذة، فلترة وإعلانات الفرق.
+
+## Installation
+
+# Clone the repository
+git clone https://github.com/username/graduation-project.git
+
+# Install dependencies
+cd graduation-project
+npm install
+
+# Run the project
+npm start
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
