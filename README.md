@@ -27,7 +27,7 @@
 ## Installation
 
 # Clone the repository
-git clone https://github.com/username/graduation-project.git
+git clone https://github.com/AbdullhDarwech/graduation-project.gi
 
 # Install dependencies
 cd graduation-project
